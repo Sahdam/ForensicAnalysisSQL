@@ -45,6 +45,9 @@ The database contains four tables:
 - `data/`: four csv data files
 
 ## 👨‍💻 Author
+**Olayinka Yusuf**
+[LinkedIn](https://www.linkedin.com/in/olayinka-yusuf-884362115/)
+[email](yusufolayinka92@gmail.com)
 
 Yusuf Olayinka  
 Data Analyst
